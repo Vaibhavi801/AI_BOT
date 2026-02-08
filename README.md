@@ -1,6 +1,6 @@
 # AI_BOT
 
-# 🤖 AI Chatbot with NLP (Python)
+# AI Chatbot with NLP (Python)
 
 ##  Project Overview
 This project implements an **AI-based chatbot using Natural Language Processing (NLP)** techniques in Python.  
